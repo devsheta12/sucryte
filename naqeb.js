@@ -761,4 +761,4 @@ naqeb.on("message", message => {
   }
 });
 
-naqeb.login("token bot");
+naqeb.login("NzYzNTIyNTgyNzM2NTM1NTU0.X3470Q.0Xmx4t1oMo9LXu76Ho6fCpbUCfQ");
